@@ -1,2 +1,2 @@
-# nathanwest.github.io
+# Nathan West
 My Portfolio
